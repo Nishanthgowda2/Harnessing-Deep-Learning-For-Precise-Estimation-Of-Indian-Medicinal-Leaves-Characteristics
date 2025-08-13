@@ -96,7 +96,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/yourusername/Harnessing-Deep-Learning-For-Precise-Estimation-Of-Indian-Medicinal-Leaves-Characteristics.git
+git clone https://github.com/nishanthgowda2/Harnessing-Deep-Learning-For-Precise-Estimation-Of-Indian-Medicinal-Leaves-Characteristics.git
 cd Harnessing-Deep-Learning-For-Precise-Estimation-Of-Indian-Medicinal-Leaves-Characteristics
 
 # Install dependencies
